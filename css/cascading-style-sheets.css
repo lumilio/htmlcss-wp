@@ -154,7 +154,7 @@ header > nav > a{
 /* 3 colonne */
 
 .pic1 , .pic2 , .pic3 {
-    height: 260px;
+    height: 285px;
     width: 100%;
     background-position: center;
     background-size: cover;
